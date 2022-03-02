@@ -3,7 +3,7 @@
 An adventure game focus on the "self" topic featuring vertical layering music and abstract narrative.
 
 
-### Development Status:
+## Development Status:
 
 Currently, this project is under early stage development. We're experimenting the core gameplay features using rapid prototyping.
 
@@ -28,12 +28,12 @@ Currently, this project is under early stage development. We're experimenting th
 - Currently working on the outline of the story.
 
 
-### Credit:
+## Credit:
 
-- Brie Y R : Programming, Level Design, Narrative Design     
-- Sybil : Music Composing, Sound Design, Narrative Design
+**Brie Y R** : Programming, Level Design, Narrative Design     
+**Sybil** : Music Composing, Sound Design, Narrative Design
 
 
-### Third-Party Notices:
+## Third-Party Notices:
 
 Please be aware that all the art assets under 'RoomOfOneself/Assets/Art/AssetPackages/' file are third-party assets used under Unity EULA license (According to its rules, if you are going to use them as well, you'll need to buy yourself a seat at Unity Asset Store).
