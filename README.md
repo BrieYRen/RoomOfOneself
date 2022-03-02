@@ -30,10 +30,10 @@ Currently, this project is under early stage development. We're experimenting th
 
 ### Credit:
 
-Brie Y R : Programming, Level Design, Narrative Design
-Sybil : Music Composing, Sound Design, Narrative Design
+- Brie Y R : Programming, Level Design, Narrative Design     
+- Sybil : Music Composing, Sound Design, Narrative Design
 
 
 ### Third-Party Notices:
 
-All the art assets under 'RoomOfOneself/Assets/Art/AssetPackages/' file are third-party assets used under Unity EULA license (According to its rules, if you are going to use them as well, you'll need to buy yourself a seat at Unity Asset Store).
+Please be aware that all the art assets under 'RoomOfOneself/Assets/Art/AssetPackages/' file are third-party assets used under Unity EULA license (According to its rules, if you are going to use them as well, you'll need to buy yourself a seat at Unity Asset Store).
