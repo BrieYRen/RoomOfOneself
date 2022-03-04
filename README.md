@@ -19,7 +19,7 @@ Currently, this project is under early stage development. We're experimenting th
 
 **Level**:
 
-- Decided there would be 3 to 5 pre-set levels and a blank level for customizing in total. Designed 2 rough levels for the first prototype.
+- Decided there would be 3 to 5 pre-set levels and a blank level for customizing in total. Designed 4 rough levels for the first prototype.
 - Currently listing the levels, the transition props, and the interactable items.
 
 **Narrative**:
