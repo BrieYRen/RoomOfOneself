@@ -10,7 +10,7 @@ Currently, this project is under early stage development. We're experimenting th
 **Code**: 
 
 - Designed and implemented features like: audio system for both 2d and 3d sounds, UI widget with simple tween, input handler state machine, etc. for the full game.
-- Currently making the first rapid prototype "The River" which is inspired by "the river reflected whatever it chose of" using throwaway code. Have finished the scene transition demo, now working on the items unlock, pickup and place features.
+- Currently making the first rapid prototype "The River" which is inspired by "the river reflected whatever it chose" using throwaway code. Have finished the scene transition demo, now working on the items unlock, pickup and place features.
 
 **Music**: 
 
@@ -28,12 +28,12 @@ Currently, this project is under early stage development. We're experimenting th
 - Currently working on the outline of the story.
 
 
-## Credit:
+## Credits:
 
-**Brie Y R** : Programming, Level Design, Narrative Design     
+**Brie YR** : Programming, Level Design, Narrative Design     
 **Sybil** : Music Composing, Sound Design, Narrative Design
 
 
 ## Third-Party Notices:
 
-Please be aware that all the art assets under 'RoomOfOneself/Assets/Art/AssetPackages/' file are third-party assets used under Unity EULA license (According to its rules, if you are going to use them as well, you'll need to buy yourself a seat at Unity Asset Store).
+Please be aware that all the art assets under 'RoomOfOneself/Assets/Art/AssetPackages/' are third-party assets used under Unity EULA license (According to its rules, if you are going to use them as well, you'll need to buy yourself a seat at Unity Asset Store).
